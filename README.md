@@ -1,2 +1,2 @@
-# go-scalibility
-art of scalibility
+# go-scalability
+art of scalability
